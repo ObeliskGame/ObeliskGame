@@ -7,7 +7,7 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: 地下城动作冒险游戏EmmaAdventure
-这是一个3D地牢探索游戏，并带有爽快的战斗。
+description: 地下城动作冒险游戏EmmaAdventure 这是一个3D地牢探索游戏，并带有爽快的战斗。
+
 
 ---

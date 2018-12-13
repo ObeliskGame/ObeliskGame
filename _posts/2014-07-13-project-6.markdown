@@ -7,7 +7,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: 移动端解谜游戏OneWay
-这是一个移动端的3DLowPoly风格解谜游戏。游戏方法很简单，点击屏幕时，小人会停下，松开屏幕时，小人会继续走。利用这个简单的机制做了6个关卡，并熟悉了Unity移动端游戏的开发。
+description: 移动端解谜游戏OneWay 这是一个移动端的3DLowPoly风格解谜游戏。游戏方法很简单，点击屏幕时，小人会停下，松开屏幕时，小人会继续走。利用这个简单的机制做了6个关卡，并熟悉了Unity移动端游戏的开发。
 
 ---
