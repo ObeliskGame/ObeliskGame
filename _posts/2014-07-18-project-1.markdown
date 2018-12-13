@@ -7,6 +7,7 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: 当时小程序处于“风口浪尖”之时。我们几个一拍即合，准备用“小程序”试试水。
+description: 不存在系列
+当时小程序处于“风口浪尖”之时。我们几个一拍即合，准备用“小程序”试试水，沿用的思路还是轻便的核心玩法，套用成熟的迭代思路，用了3个月的周末时间完成了《不存在的蹦蹦》、《不存在的射射》两款小程序游戏，其中《不存在的蹦蹦》已经可以试玩。
 
 ---

@@ -7,6 +7,7 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: 地下城动作冒险游戏EmmaAdventure
+这是一个3D地牢探索游戏，并带有爽快的战斗。地图房间顺序是随机生成的，宝箱和怪物也是随机摆放的，每一次进入游戏都会稍有不同，在地牢探索中可能会遇到一些需要解谜的房间和恢复生命的房间，最终走到BOSS房，打败了BOSS后即可获得胜利。玩家拥有多种技能，包括普通攻击（三连击），愤怒状态（按Q开启，消耗能量），还有炸弹攻击（会伤到自己）。在开发过程中，自己写了一套随机房间生成算法，进一步熟悉了3D动作游戏的开发。进一步学习了Shader并能够自己写一些Shader实现想要的特效。研究学习了扭曲、溶解、镜面、人物发光Shader特效并成功实现。
 
 ---
