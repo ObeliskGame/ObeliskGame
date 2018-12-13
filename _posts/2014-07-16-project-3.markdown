@@ -7,7 +7,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: 音乐跑酷游戏Bitriot 第一次制作音乐类游戏，对像素风格产生了兴趣并进行了一定的学习。
-自己编写了小插件给美术的同学使用，能从外部读取音乐节奏文件并自动在地图上生成障碍物，并可拖拽生成跑酷路线。
+description: 音乐跑酷游戏Bitriot 第一次制作音乐类游戏，对像素风格产生了兴趣并进行了一定的学习。自己编写了小插件给美术的同学使用，能从外部读取音乐节奏文件并自动在地图上生成障碍物，并可拖拽生成跑酷路线。
 
 ---
